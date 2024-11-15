@@ -1,0 +1,26 @@
+[
+    {
+        "address": "Go Vap - TPHCM",
+        "answer": "",
+        "dob": "26/07/2002",
+        "email": "n20dcpt008@ptithcm.edu.vn",
+        "login_counter": 26072002,
+        "name": "Nguyen Tam Chien",
+        "oldPassword": "admin01",
+        "password": "NTC2002",
+        "phone_number": "",
+        "username": "admin01"
+    },
+    {
+        "address": "Binh Tan - TPHCM",
+        "answer": "",
+        "dob": "13/12/2005",
+        "email": "n23dcdk008@ptithcm.edu.vn",
+        "login_counter": 13122005,
+        "name": "Tran Huu Chung",
+        "oldPassword": "admin02",
+        "password": "THC2005",
+        "phone_number": "",
+        "username": "admin02"
+    }
+]

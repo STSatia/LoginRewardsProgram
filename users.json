@@ -1,0 +1,26 @@
+[
+    {
+        "address": "abc",
+        "answer": "abc",
+        "dob": "20/10/2001",
+        "email": "abc@gmail.com",
+        "login_counter": 1,
+        "name": "abcd",
+        "oldPassword": "Abc1234.",
+        "password": "Abc1234.",
+        "phone_number": "0999999999",
+        "username": "abc"
+    },
+    {
+        "address": "abcd",
+        "answer": "cat",
+        "dob": "26/07/2002",
+        "email": "chien@gmail.com",
+        "login_counter": 1,
+        "name": "chien",
+        "oldPassword": "",
+        "password": "Chien123.",
+        "phone_number": "0942251890",
+        "username": "n20dcpt008"
+    }
+]
